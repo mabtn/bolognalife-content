@@ -1,0 +1,16 @@
+# Publishes events.json to GitLab Pages so the app can fetch it from a
+# public URL even while this repo (prompts, drafts, history) stays private.
+#
+# Triggered on every push to the default branch. The pipeline takes ~30-60s;
+# the new events.json is live on the Pages URL after that.
+
+pages:
+  stage: deploy
+  script:
+    - mkdir -p public
+    - cp events.json public/events.json
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
