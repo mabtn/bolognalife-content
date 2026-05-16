@@ -1,0 +1,86 @@
+[
+  {
+    "id": "concert-2026-05-16-estragon-tba",
+    "title": "Sera all'Estragon",
+    "kind": "concert",
+    "venue": "Estragon Club",
+    "startDate": "2026-05-16T21:30:00+02:00",
+    "endDate": null,
+    "impactLevel": "low",
+    "description": "Live music in Parco Nord",
+    "url": "https://www.estragon.it",
+    "sourceNote": "Placeholder seed entry — replace with real listing"
+  },
+  {
+    "id": "soccer-2026-05-18-bologna-juventus",
+    "title": "Bologna vs Juventus",
+    "kind": "soccer",
+    "venue": "Stadio Renato Dall'Ara",
+    "startDate": "2026-05-18T20:45:00+02:00",
+    "endDate": null,
+    "impactLevel": "very_high",
+    "description": "Serie A · expected sell-out · heavy traffic near via Andrea Costa",
+    "url": "https://www.bolognafc.it",
+    "sourceNote": "Placeholder seed entry — verify fixture"
+  },
+  {
+    "id": "basketball-2026-05-20-virtus-playoff-g3",
+    "title": "Virtus vs Olimpia Milano — Playoff G3",
+    "kind": "basketball",
+    "venue": "Unipol Arena",
+    "startDate": "2026-05-20T20:30:00+02:00",
+    "endDate": null,
+    "impactLevel": "high",
+    "description": "LBA semifinal · big crowd in Casalecchio",
+    "url": "https://www.virtus.it",
+    "sourceNote": "Placeholder seed entry — verify schedule"
+  },
+  {
+    "id": "concert-2026-05-22-unipol-vasco",
+    "title": "Vasco Rossi — Live 2026",
+    "kind": "concert",
+    "venue": "Unipol Arena",
+    "startDate": "2026-05-22T21:00:00+02:00",
+    "endDate": null,
+    "impactLevel": "very_high",
+    "description": "Sold out · expect Casalecchio gridlock from 18:00",
+    "url": "",
+    "sourceNote": "Placeholder seed entry"
+  },
+  {
+    "id": "baseball-2026-05-23-fortitudo-parma",
+    "title": "Fortitudo Bologna vs Parma",
+    "kind": "baseball",
+    "venue": "Stadio Gianni Falchi",
+    "startDate": "2026-05-23T15:30:00+02:00",
+    "endDate": null,
+    "impactLevel": "low",
+    "description": "Serie A1 regular season",
+    "url": "",
+    "sourceNote": "Placeholder seed entry"
+  },
+  {
+    "id": "fiera-2026-09-15-cersaie",
+    "title": "Cersaie 2026",
+    "kind": "fiera",
+    "venue": "BolognaFiere",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-19",
+    "impactLevel": "very_high",
+    "description": "Int'l exhibition of ceramic tile — ~100k visitors · book hotels early",
+    "url": "https://www.cersaie.it",
+    "sourceNote": "BolognaFiere annual calendar"
+  },
+  {
+    "id": "fiera-2026-10-13-saie",
+    "title": "SAIE 2026",
+    "kind": "fiera",
+    "venue": "BolognaFiere",
+    "startDate": "2026-10-13",
+    "endDate": "2026-10-16",
+    "impactLevel": "high",
+    "description": "Construction industry trade fair",
+    "url": "https://www.saiebologna.it",
+    "sourceNote": "BolognaFiere annual calendar"
+  }
+]
